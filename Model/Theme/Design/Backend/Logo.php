@@ -8,7 +8,7 @@
 
 namespace HumanElement\EmailLogoFix\Model\Theme\Design\Backend;
 
-class Logo extends  \Magento\Theme\Model\Design\Backend\Logo
+class Logo extends \Magento\Theme\Model\Design\Backend\Logo
 {
     /**
      * @return mixed
