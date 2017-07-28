@@ -1,6 +1,6 @@
 {
   "name": "human-element/module-email-logo-fix",
-  "description": "Magento 2 Human Element Module to fix email logos",
+  "description": "Magento 2 Human-Element Module to fix email logo uploads in admin",
   "type": "magento2-module",
   "version": "2.0.0",
   "require": {
