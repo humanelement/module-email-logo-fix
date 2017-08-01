@@ -9,6 +9,12 @@
   "license": [
     "GPL-3.0"
   ],
+  "authors": [
+    {
+      "email": "nerickson@human-element.com",
+      "name": "Nathan Erickson"
+    }
+  ],
   "autoload": {
     "files": [
       "registration.php"
